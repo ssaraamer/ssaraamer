@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ssaraamer
+- 👋 Hi, I’m Sara
 - 👀 I’m interested in AI/ML and specifically LLM implementation, tuning, and training!
 - 🌱 I’m currently learning more about langchain, and APIs.
 - 📫 How to reach me -- samer31@gatech.edu
