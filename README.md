@@ -4,7 +4,7 @@ I’m a creative, product-minded full stack developer. I believe that software s
 
 I’m **learning** more about scalable and secure backend development; things like load balancing, Kubernetes, etc. 
 
-Currently working on: **Roomie**; a swipe-based roommate matching app 
+Currently challenging myself to bring one product/design idea to life a day using AI, follow along on my Twitter account [@saratheswe](https://x.com/saratheswe)
 
 Contact: amersara2003@gmail.com
 
